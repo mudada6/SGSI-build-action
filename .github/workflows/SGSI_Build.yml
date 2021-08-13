@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
+  ROM_URL: 'https://47i7-my.sharepoint.com/personal/cf_nima_ma/_layouts/15/download.aspx?UniqueId=6b727b21-e29d-459d-96b5-e02887fe600e&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvNDdpNy1teS5zaGFyZXBvaW50LmNvbUBkNjhmNTRjNS0wY2I2LTQzYmItOGY5Mi0yMzhlMzQ3ZTNiZGEiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjI4ODY4Mjc5IiwiZXhwIjoiMTYyODg3MTg3OSIsImVuZHBvaW50dXJsIjoiV2F0bkRMbTVZZnVsT0dBTElZeFhoSGdLYTl0ZWdVNkdMRWVkSEE0eWFvWT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjEzOCIsImlzbG9vcGJhY2siOiJUcnVlIiwiY2lkIjoiWkRRNVpUazRaV0l0T1dabE5pMDBZalUyTFRreVlqTXRPVEJsWWpSaE1XUmlPVFE0IiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6Ik5EUm1ZalF6WlRVdE5XSTNaQzAwTWpRMkxUazBOamt0T0dVMk1EZ3lNalZqTkdRMiIsImFwcF9kaXNwbGF5bmFtZSI6InBhbiIsImdpdmVuX25hbWUiOiJjZiIsImZhbWlseV9uYW1lIjoiY2YiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwiYXBwaWQiOiIxZjYwMzI2My1lZTM5LTQzMWMtOGY5MS03OTVmYzgzMjA1MWUiLCJ0aWQiOiJkNjhmNTRjNS0wY2I2LTQzYmItOGY5Mi0yMzhlMzQ3ZTNiZGEiLCJ1cG4iOiJjZkBuaW1hLm1hIiwicHVpZCI6IjEwMDMyMDAxMUI2NjNBRTUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwMTFiNjYzYWU1QGxpdmUuY29tIiwic2NwIjoiYWxsZmlsZXMud3JpdGUiLCJ0dCI6IjIiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjpudWxsfQ.MVRyN1FiWXRYRGJRWDhrMHRndUZ6NFFuck55OHZuNlMxWjV1VkdXZWhZQT0&ApiVersion=2.0'
   ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Generic'
-  BUILD_TYPE: 'ab'
-  REPACK_NAME: 'SGSI.zip'
-  VERSION: '12'
+  OS_TYPE: 'Flyme'
+  BUILD_TYPE: 'a-only'
+  REPACK_NAME: 'Flyme9.21.8.10-beta_SGSI.zip'
+  VERSION: '10'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
